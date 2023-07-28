@@ -1,13 +1,20 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Djouad SAHLI # your name (or website title) here
+logo: "/me.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
+  Master's Physics Metalurgy & Ultrasonic Physics at University of Sciences and Technology HOUARI BOUMEDIENNE USTHB
+
   <br><br>
-  Second description 
+  Second description
+  Interested in Marine engineering, Acoustics and Naval architecture as a Hobby i often work on Electronics repairs on fishing boats for Nav equipement (Sonars Radars Echo-Sounders ect ..) everything related to my field of study Ultrasonic Physics and waves
+
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  Email: Sahlidjouad@gmail.com
+  Don't hesitate to contact me & open for collaboration
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+

@@ -1,10 +1,21 @@
-## This can be your internal website page / project page
+## Marine Navigation Equipement Repair
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Description:** i work as a freelance Electronic repair in general and Particularly Specialized Marine fishing boats diagnostics and installation of new equipemnt identify issues and electric problems in  RADARS GPS Camera systems and network,Autopilot system, SONARS as well as formation and tutoring to the use of the equipement and good setups 
+and installation of Computer systems on board
+### Apparels and Equipement
+  - GPS Devices
+  - SONARS (FURUNO CH 500 CH 600,KODEN 6000BB,...)
+  - RADARS (FURUNO,KODEN,...)
+  - Autopilot 
+  - On BOARD Computer Systems
+  - MAXSEA TimeZERO Navigation Software
+  - Camera Networks Installation and Diagnostic
 
-### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### Previous works 
+
+Here couple of photos from previous jobs 
+<img src="images/Marine/dummy_thumbnail.jpg?raw=true"/>
 
 ```javascript
 if (isAwesome){
@@ -20,12 +31,8 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

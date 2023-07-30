@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Work and Freelance 
 
 [Marine Nav Equipement Repair](/page_1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Naval Architecture And Ship Design](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

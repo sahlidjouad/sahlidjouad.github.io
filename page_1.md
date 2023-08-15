@@ -17,19 +17,7 @@ and installation of Computer systems on board
 Here couple of photos from previous jobs 
 <img src="images/Marine/dummy_thumbnail.jpg?raw=true"/>
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>

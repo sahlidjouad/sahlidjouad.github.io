@@ -2,17 +2,17 @@
 
 ---
 
-### Work and Freelance 
+## Work and Freelance 
 
-[Marine Nav Equipement Repair](/page_1)
+### [Marine Nav Equipement Repair](/page_1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Naval Architecture And Ship Design](/pdf/sample_presentation.pdf)
+### [Naval Architecture And Ship Design](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+### [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

@@ -5,7 +5,7 @@
 ## Work and Freelance 
 
 ### [Marine Nav Equipement Repair](/page_1)
-<img src="images/20221013_084842.jpg?raw=true"/>
+<img src="images/Marine/20221013_084842.jpg?raw=true"/>
 
 ---
 ### [Naval Architecture And Ship Design](/pdf/sample_presentation.pdf)

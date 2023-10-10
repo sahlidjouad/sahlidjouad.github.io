@@ -8,8 +8,8 @@
 <img src="images/Marine/20221013_084842.jpg?raw=true"/>
 
 ---
-### [Naval Architecture And Ship Design](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Naval Architecture And Ship Design](/page_2)
+<img src="images/naval/model.png?raw=true"/>
 
 ---
 ### [Project 3 Title](http://example.com/)

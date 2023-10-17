@@ -9,7 +9,7 @@
 
 ---
 ### [Naval Architecture And Ship Design](/page_2)
-<img src="images/naval/model.png?raw=true"/>
+<img src="images/naval/screen.png?raw=true"/>
 
 ---
 ### [Project 3 Title](http://example.com/)

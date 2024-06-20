@@ -7,7 +7,7 @@
 }
 
 :root {
-  --bkg: linear-gradient(to top, #0f0915, #050307);
+  --bkg: linear-gradient(to top, #f7f7f7, #e0e2ff);
   --dark: #050307;
   --text: #f9f6fe;
   --accent: #4233e4;

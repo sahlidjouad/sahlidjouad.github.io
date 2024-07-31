@@ -24,7 +24,9 @@
 - [CVPR 2023 DarkVision Workshop Competition](https://www.cvpr2023-dl-ultrasound.com/) Git repo Under construction **2023**
 - [Marinex Project](https://github.com/sahlidjouad/Marinex) Open source Marine Charts Visualization **2023**
 - [One-Dimension-CNN-for-thyroid-cancer](https://github.com/sahlidjouad/One-Dimension-CNN-for-thyroid-cancer) One-Dimension-CNN-for-thyroid-cancer **2024**
-- 
+- # Articles/Publications
+- [Physica Magazine 1](https://www.calameo.com/read/0051282113d00f28ad4d2) Physica Magazine 1
+- [Physica Magazine 2](https://www.calameo.com/read/005128211073ff1b10349) Physica Magazine 2 
 ---
 
 

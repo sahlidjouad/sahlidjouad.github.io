@@ -1,5 +1,6 @@
 ## Naval engineering and architecture  
-<img src="images\naval\3.png?raw=true"/>
+<img src="images\naval\model.png?raw=true"/>
+
 **Description:** As a naval engineer and architect specializing in ship design, my role encompasses a diverse range of tasks to ensure the development of efficient, safe, and innovative vessels. Key responsibilities include:
 
 ### Conceptual Design:
@@ -7,14 +8,14 @@
 Creating initial design concepts based on client specifications, industry standards, and regulatory requirements.
 Conducting feasibility studies to assess design viability.
 Hydrodynamic Analysis:
-
+<img src="images\naval\3.png?raw=true"/>
 ### Performing hydrodynamic and structural analyses to optimize vessel performance.
 Using computational fluid dynamics (CFD) software to simulate and improve hull designs for reduced resistance and improved fuel efficiency.
 Structural Design:
-
+<img src="images\naval\4.png?raw=true"/>
 ### Designing the structural framework of ships, including hulls, decks, and bulkheads.
 Ensuring structural integrity through stress analysis and material selection.
-Systems Integration:
+### Systems Integration:
 
 ### Coordinating the integration of various onboard systems such as propulsion, electrical, HVAC, and communication systems.
 Ensuring systems are compatible and function seamlessly together.
@@ -27,7 +28,8 @@ Detailed Design and Drafting:
 
 Producing detailed design drawings and technical specifications for construction.
 Using CAD software to create precise blueprints and 3D models.
-Project Management:
+<img src="images\naval\2.png?raw=true"/>
+### Project Management:
 
 Managing design projects from inception through to completion, ensuring timelines and budgets are adhered to.
 Collaborating with cross-functional teams, including engineers, drafters, and project managers.
@@ -44,7 +46,7 @@ These tasks collectively contribute to the successful design and development of 
 
 
 
-### Previous works 
+### works 
 
 Here couple of photos from previous jobs 
 <img src="images\naval\model.png?raw=true"/>

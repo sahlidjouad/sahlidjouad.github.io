@@ -11,13 +11,16 @@ Hydrodynamic Analysis:
 <img src="images\naval\3.png?raw=true"/>
 ### Performing hydrodynamic and structural analyses to optimize vessel performance.
 Using computational fluid dynamics (CFD) software to simulate and improve hull designs for reduced resistance and improved fuel efficiency.
-Structural Design:
-<img src="images\naval\4.png?raw=true"/>
-### Designing the structural framework of ships, including hulls, decks, and bulkheads.
+
+### Structural Design:
+
+Designing the structural framework of ships, including hulls, decks, and bulkheads.
 Ensuring structural integrity through stress analysis and material selection.
+
+<img src="images\naval\4.png?raw=true"/>
 ### Systems Integration:
 
-### Coordinating the integration of various onboard systems such as propulsion, electrical, HVAC, and communication systems.
+Coordinating the integration of various onboard systems such as propulsion, electrical, HVAC, and communication systems.
 Ensuring systems are compatible and function seamlessly together.
 
 ### Regulatory Compliance:
@@ -26,7 +29,7 @@ Ensuring designs meet international and local maritime regulations and safety st
 Liaising with classification societies for design approval and certification.
 Detailed Design and Drafting:
 
-Producing detailed design drawings and technical specifications for construction.
+### Producing detailed design drawings and technical specifications for construction.
 Using CAD software to create precise blueprints and 3D models.
 <img src="images\naval\2.png?raw=true"/>
 ### Project Management:

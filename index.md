@@ -11,7 +11,7 @@
 ### [Naval Engineering And Ship Design](/page_2)
 <img src="images/naval/model.png?raw=true"/>
 
-### [Naval Architecture ](/page_3)
+### [AI Deeplearning / Machine Learning ](/page_3)
 <img src="images/AI/1.jpg?raw=true"/>
 
 ---

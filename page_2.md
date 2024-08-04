@@ -1,5 +1,5 @@
 ## Naval engineering and architecture  
-<img src="images\naval\3.jpg?raw=true"/>
+<img src="images\naval\3.png?raw=true"/>
 **Description:** As a naval engineer and architect specializing in ship design, my role encompasses a diverse range of tasks to ensure the development of efficient, safe, and innovative vessels. Key responsibilities include:
 
 ### Conceptual Design:
@@ -48,9 +48,9 @@ These tasks collectively contribute to the successful design and development of 
 
 Here couple of photos from previous jobs 
 <img src="images\naval\model.png?raw=true"/>
-<img src="images\naval\model.1?raw=true"/>
-<img src="images\naval\model.2?raw=true"/>
-<img src="images\naval\model.4?raw=true"/>
+<img src="images\naval\1.png?raw=true"/>
+<img src="images\naval\2.png?raw=true"/>
+<img src="images\naval\4.png?raw=true"/>
 <img src="images\naval\screen.png?raw=true"/>
 
 

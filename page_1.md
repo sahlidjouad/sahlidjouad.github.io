@@ -15,8 +15,14 @@ and installation of Computer systems on board
 ### Previous works 
 
 Here couple of photos from previous jobs 
-<img src="images/Marine/20221013_084842.jpg?raw=true"/>
-<img src="images/Marine/20221012_200246.jpg?raw=true"/>
+<img src="images/Marine/1.jpg?raw=true"/>
+<img src="images/Marine/2.jpg?raw=true"/>
+<img src="images/Marine/3.jpg?raw=true"/>
+<img src="images/Marine/4.jpg?raw=true"/>
+<img src="images/Marine/5.jpg?raw=true"/>
+<img src="images/Marine/6.jpg?raw=true"/>
+<img src="images/Marine/7.jpg?raw=true"/>
+<img src="images/Marine/8.jpg?raw=true"/>
 
 
 

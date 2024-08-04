@@ -1,18 +1,18 @@
-# Portfolio (Underconstruction)
+# Portfolio 
 
 ---
 
-## Work and Freelance 
+## Work Experience and Freelance 
 
 ### [Marine Nav Equipement Repair](/page_1)
 <img src="images/Marine/20221013_084842.jpg?raw=true"/>
 
 ---
-### [Naval Architecture And Ship Design](/page_2)
+### [Naval Engineering And Ship Design](/page_2)
 <img src="images/naval/model.png?raw=true"/>
 
 ### [Naval Architecture ](/page_3)
-<img src="images/naval/screen.png?raw=true"/>
+<img src="images/AI/1.jpg?raw=true"/>
 
 ---
 
@@ -26,5 +26,5 @@
 - [One-Dimension-CNN-for-thyroid-cancer](https://github.com/sahlidjouad/One-Dimension-CNN-for-thyroid-cancer) One-Dimension-CNN-for-thyroid-cancer **2024**
 
 ### Articles/Publications
- -[Physica Magazine 1](https://www.calameo.com/read/0051282113d00f28ad4d2) Physica Magazine 1
- -[Physica Magazine 2](https://www.calameo.com/read/005128211073ff1b10349) Physica Magazine 2
+ - [Physica Magazine 1](https://www.calameo.com/read/0051282113d00f28ad4d2) Physica Magazine 1
+ - [Physica Magazine 2](https://www.calameo.com/read/005128211073ff1b10349) Physica Magazine 2

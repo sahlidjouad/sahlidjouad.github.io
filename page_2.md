@@ -1,24 +1,25 @@
-## Naval engineering an architecture  
+## Naval engineering and architecture  
 <img src="images\naval\screen.png?raw=true"/>
 **Description:** As a naval engineer and architect specializing in ship design, my role encompasses a diverse range of tasks to ensure the development of efficient, safe, and innovative vessels. Key responsibilities include:
 
-Conceptual Design:
+### Conceptual Design:
 
 Creating initial design concepts based on client specifications, industry standards, and regulatory requirements.
 Conducting feasibility studies to assess design viability.
 Hydrodynamic Analysis:
 
-Performing hydrodynamic and structural analyses to optimize vessel performance.
+### Performing hydrodynamic and structural analyses to optimize vessel performance.
 Using computational fluid dynamics (CFD) software to simulate and improve hull designs for reduced resistance and improved fuel efficiency.
 Structural Design:
 
-Designing the structural framework of ships, including hulls, decks, and bulkheads.
+### Designing the structural framework of ships, including hulls, decks, and bulkheads.
 Ensuring structural integrity through stress analysis and material selection.
 Systems Integration:
 
-Coordinating the integration of various onboard systems such as propulsion, electrical, HVAC, and communication systems.
+### Coordinating the integration of various onboard systems such as propulsion, electrical, HVAC, and communication systems.
 Ensuring systems are compatible and function seamlessly together.
-Regulatory Compliance:
+
+### Regulatory Compliance:
 
 Ensuring designs meet international and local maritime regulations and safety standards.
 Liaising with classification societies for design approval and certification.
@@ -40,14 +41,7 @@ Staying abreast of the latest technological advancements and industry trends.
 Continuously seeking innovative solutions to improve vessel efficiency, safety, and sustainability.
 These tasks collectively contribute to the successful design and development of cutting-edge vessels that meet the evolving needs of the maritime industry.
 
-### Apparels and Equipement
-  - GPS Devices
-  - SONARS (FURUNO CH 500 CH 600,KODEN 6000BB,...)
-  - RADARS (FURUNO,KODEN,...)
-  - Autopilot 
-  - On BOARD Computer Systems
-  - MAXSEA TimeZERO Navigation Software
-  - Camera Networks Installation and Diagnostic
+
 
 
 ### Previous works 

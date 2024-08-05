@@ -11,12 +11,13 @@
 ### [Naval Engineering And Ship Design](/page_2)
 <img src="images/naval/model.png?raw=true"/>
 
+---
+
 ### [Artificial Intelligence In Ultrasound Imaging ](/page_3)
 <img src="images/AI/1.jpg?raw=true"/>
 
 ---
 
----
 
 ### Projects and works
 

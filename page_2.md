@@ -7,11 +7,16 @@
 
 Creating initial design concepts based on client specifications, industry standards, and regulatory requirements.
 Conducting feasibility studies to assess design viability.
+
+<p align="center">
+    <img src="images\naval\3.png?raw=true"/>
+</p>
 ### Hydrodynamic Analysis:
 
 Performing hydrodynamic and structural analyses to optimize vessel performance.
 Using computational fluid dynamics (CFD) software to simulate and improve hull designs for reduced resistance and improved fuel efficiency.
-<img src="images\naval\3.min.png?raw=true"/>
+
+<img src="images\naval\1.png?raw=true"/>
 
 ### Structural Design:
 

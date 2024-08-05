@@ -55,7 +55,7 @@ These tasks collectively contribute to the successful design and development of 
 
 
 
-### works 
+### Works 
 
 Here couple of photos from previous jobs 
 <img src="images\naval\model.png?raw=true"/>

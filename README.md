@@ -1,6 +1,6 @@
 # Portfolio SAHLI Djouad
 
-##  ** MSc Material Physics ** Physical Metalurgy & Ultrasound 
+##   MSc Material Physics Physical Metalurgy & Ultrasound 
 *at University of Sciences and Technology HOUARI BOUMEDIENNE* **USTHB**
 <br>
 

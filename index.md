@@ -48,7 +48,7 @@ Other Programming Languages
 
 Cloud Computing & Databases
 
-![](/images/logos/mongodb.svg) ![](/images/logos/sql-server.svg) ![](/images/logos/k8s_grey.svg)
+![](/images/logos/photoshop.svg) ![](/images/logos/premier.svg) ![](/images/logos/audition.svg)
 
 Most used Tools
 

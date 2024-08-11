@@ -33,3 +33,25 @@
 
  - [Physica Magazine 1](https://www.calameo.com/read/0051282113d00f28ad4d2) Physica Magazine 1
  - [Physica Magazine 2](https://www.calameo.com/read/005128211073ff1b10349) Physica Magazine 2
+
+### Technical Skills
+
+Main Programming Languages
+
+![](/images/logos/Go-Logo_Grey.svg)
+
+Other Programming Languages
+
+![](/images/logos/bash-greyscale.svg) ![](/images/logos/ruby-greyscale.svg)
+
+![](/images/logos/cpp-greyscale.svg)
+
+Cloud Computing & Databases
+
+![](/images/logos/mongodb.svg) ![](/images/logos/sql-server.svg) ![](/images/logos/k8s_grey.svg)
+
+Most used Tools
+
+![](/images/logos/jetbrains-greyscale.svg)
+
+![](/images/logos/notion-grey.svg)

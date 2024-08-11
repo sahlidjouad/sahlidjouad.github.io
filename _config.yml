@@ -1,0 +1,23 @@
+title: Djouad SAHLI # your name (or website title) here
+logo: "/images/me.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+
+  <b> MSc Material Physics  Physical Metalurgy & Ultrasound - University of Sciences and Technology HOUARI BOUMEDIENNE USTHB 
+  </b>
+  <br><br>
+
+  Passionate about Marine engineering, Ultrasonic Acoustics and Naval engineering <br> as a Freelance i often work on Electronics repairs on fishing boats for Nav equipement (Sonars Radars Echo-Sounders ect ..) everything related to my field of study Ai ,Ultrasonic Physics and waves
+  <br><br>
+  <a href="https://www.linkedin.com/in/djouad-sahli/">View My LinkedIn Profile</a> <br>
+  Email: Sahlidjouad@gmail.com <br>
+  
+  Don't hesitate to contact me & open for collaboration
+
+
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+

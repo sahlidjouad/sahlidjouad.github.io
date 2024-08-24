@@ -55,3 +55,4 @@ Most used Tools
 ![](/images/logos/jetbrains-greyscale.svg)
 
 ![](/images/logos/notion-grey.svg)
+<a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>

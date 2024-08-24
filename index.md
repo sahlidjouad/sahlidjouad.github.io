@@ -2,7 +2,7 @@
 
 ---
 
-## Work Experience and Freelance 
+## Work Experience and Projects
 
 ### [Naval Engineering And Ship Design](/page_2)
 <img src="images/naval/model.png?raw=true"/>
@@ -38,7 +38,9 @@
 
 Main Programming Languages
 
-![](/images/logos/Go-Logo_Grey.svg)
+![](/images/logos/python.png)
+![](/images/logos/seaborn.svg)
+![](/images/logos/pytorch.svg)
 
 Other Programming Languages
 

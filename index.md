@@ -15,7 +15,7 @@
 ### [Artificial Intelligence In Ultrasound Imaging ](/page_3)
 <img src="images/AI/1.jpg?raw=true"/>
 ---
-### [Gallery] (/gallery)
+### [Gallery](/gallery.html)
 
 
 ---

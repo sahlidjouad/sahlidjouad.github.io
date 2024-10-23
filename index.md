@@ -20,10 +20,11 @@
 
 ---
 ### Languages
+
     - English - IELTS C2
     - French - DalF C2
     - Arabic - Native
-    - 
+  
 ### Projects and works
 
 - [Masters Thesis Exploitation of AI in Ultrasound NDT Github-Repo](https://github.com/sahlidjouad/Masters-NDT-AI/) **2023**    

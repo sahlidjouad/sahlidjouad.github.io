@@ -19,7 +19,11 @@
 
 
 ---
-
+### Languages
+    - English - IELTS C2
+    - French - DalF C2
+    - Arabic - Native
+    - 
 ### Projects and works
 
 - [Masters Thesis Exploitation of AI in Ultrasound NDT Github-Repo](https://github.com/sahlidjouad/Masters-NDT-AI/) **2023**    
@@ -53,11 +57,7 @@ Other Programming Languages
 
 Cloud Computing & Databases
 
-![](/images/logos/photoshop.svg) ![](/images/logos/premier.svg) ![](/images/logos/audition.svg)
 
 Most used Tools
 
-![](/images/logos/jetbrains-greyscale.svg)
 
-![](/images/logos/notion-grey.svg)
-<a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>

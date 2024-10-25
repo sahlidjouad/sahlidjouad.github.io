@@ -1,0 +1,48 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Modern color scheme */
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --accent-color: #e74c3c;
+  --text-color: #34495e;
+  --background-color: #ecf0f1;
+/* Navigation Menu Theme - Sea and Ocean */
+.nav-menu {
+  background-color: #0b5ed8; /* Deep blue to represent the sea */
+}
+
+.nav-item {
+  color: white; /* Contrast for visibility on a darker ocean theme */
+}
+
+body {
+    
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+h1, h2, h3 {
+  color: var(--primary-color);
+}
+
+a {
+  color: var(--secondary-color);
+  &:hover {
+    color: var(--accent-color);
+  }
+}
+
+.header {
+    margin-top: 15%;
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.project-section {
+  border-left: 4px solid var(--accent-color);
+  padding-left: 1rem;
+}

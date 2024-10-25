@@ -13,10 +13,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,600;0,800;1,600;1,800&display=swap"
       rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="//styles.css">
-    <link rel="stylesheet" type="text/css" href="/assets/css/bg.css">
+  
     <link rel="stylesheet" type="text/css" href="//css/menu.css">
-    
+    <link rel="stylesheet" type="text/css" href="/styles.css">
 
 
     <meta charset="UTF-8">
@@ -34,24 +33,13 @@
  
 
   <body>
-    <nav>
-      <div class="menu-icon">
-        <span class="top"></span>
-        <span class="middle"></span>
-        <span class="bottom"></span>
-      </div>
-      <ul class="menu">
-        <li><a href="#work">Work</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#publications">Publications</a></li>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </nav>
+   
 
     <div class="wrapper">
+      
+
       <header>
-   
+        
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
@@ -65,6 +53,7 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
+        
         <p class="view"><a href="{{ site.github.owner_url }}">My GitHub Profile</a></p>
         {% endif %}
 
@@ -75,9 +64,25 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-      </header>
-      <section>
 
+
+      </header>
+      <nav>
+        <div class="menu-icon">
+          <span class="top"></span>
+          <span class="middle"></span>
+          <span class="bottom"></span>
+        </div>
+        <ul class="menu">
+          <li><a href="#work">Work</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#publications">Publications</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+      <section>
+        
       {{ content }}
 
       </section>

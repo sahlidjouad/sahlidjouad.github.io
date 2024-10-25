@@ -51,9 +51,7 @@ Main Programming Languages
 ![](/images/logos/pytorch.svg)
 
 Other Programming Languages
-
-![](/images/logos/bash-greyscale.svg) ![](/images/logos/ruby-greyscale.svg)
-
+![](/images/logos/c-greyscale.svg)
 ![](/images/logos/cpp-greyscale.svg)
 
 Cloud Computing & Databases

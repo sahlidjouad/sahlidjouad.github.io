@@ -6,13 +6,14 @@
 }
 
 body {
+    margin-top :10% ; 
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     padding: 20px;
 }
 
 h1 {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .gallery-container {
@@ -78,6 +79,7 @@ h1 {
   }
   
   body {
+     
     font-family: Arial, sans-serif;
     line-height: 1.6;
   }

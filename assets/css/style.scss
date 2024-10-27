@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
+
 /* Modern color scheme */
 :root {
   --primary-color: #2c3e50;
@@ -39,6 +40,9 @@ a {
   border-left: 4px solid var(--accent-color);
   padding-left: 1rem;
 }
+
+
+
 
 * {
   margin: 0;
@@ -101,3 +105,13 @@ body {
 }
 
 
+
+
+
+
+
+
+
+
+
+}

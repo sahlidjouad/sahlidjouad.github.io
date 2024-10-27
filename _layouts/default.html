@@ -14,13 +14,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,600;0,800;1,600;1,800&display=swap"
       rel="stylesheet">
   
-    <link rel="stylesheet" type="text/css" href="//css/menu.css">
-    <link rel="stylesheet" type="text/css" href="/styles.css">
+    <link rel="stylesheet" type="text/css" href="/_layouts/css/menu.css">
+    
 
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <nav class="new-menu-bar">
+      <ul class="new-menu-list">
+          <li class="new-menu-item"><a href="#" class="new-menu-link">Home</a></li>
+          <li class="new-menu-item"><a href="#" class="new-menu-link">Portfolio</a></li>
+          <li class="new-menu-item"><a href="#" class="new-menu-link">About</a></li>
+          <li class="new-menu-item"><a href="#" class="new-menu-link">Contact</a></li>
+      </ul>
+  </nav>
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -67,20 +76,7 @@
 
 
       </header>
-      <nav>
-        <div class="menu-icon">
-          <span class="top"></span>
-          <span class="middle"></span>
-          <span class="bottom"></span>
-        </div>
-        <ul class="menu">
-          <li><a href="#work">Work</a></li>
-          <li><a href="#projects">Projects</a></li>
-          <li><a href="#publications">Publications</a></li>
-          <li><a href="#skills">Skills</a></li>
-          <li><a href="#contact">Contact</a></li>
-        </ul>
-      </nav>
+   
       <section>
         
       {{ content }}

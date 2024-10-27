@@ -1,8 +1,7 @@
 ## Deep Learning and Machine learning
 <img src="images\AI\1.jpg?raw=true"/>
-**Description:** During my freelance career, I have had the privilege of working extensively with sonar technology, which allowed me to deepen my understanding of both metallurgy and ultrasound applications. My work involved hands-on testing and optimization of high-precision sonar equipment, including the Furuno CH-500, CH-66, and Koden models. These experiences enabled me to refine my technical skills, particularly in the areas of signal processing, material behavior under ultrasonic waves, and acoustic properties of different metals.
-
-In addition to my technical work, I have also been involved in tutoring and training sessions, where I shared my knowledge and expertise with others. This not only helped me perfect my own skills but also gave me valuable insights into various practical challenges and solutions in the field...
+**Description:** 
+# WORK IN PROGRESS FINISHING SOON
 
 <img src="images\AI\1.jpg?raw=true"/>
 

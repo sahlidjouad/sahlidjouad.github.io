@@ -1,21 +1,59 @@
-## Deep Learning and Machine learning
-<img src="images\AI\1.jpg?raw=true"/>
-**Description:** 
-# WORK IN PROGRESS FINISHING SOON
+## Deep Learning & Machine Learning Projects
 
-<img src="images\AI\1.jpg?raw=true"/>
+### Masters Thesis: AI in Ultrasound NDT
+<img src="images/AI/1.jpg?raw=true"/>
 
-The accompanying images showcase some of the equipment I worked with, including the 6000 BB model, and highlight key aspects of my projects and achievements in this specialized area
-### 
-  
+Advanced research applying deep learning techniques to ultrasound non-destructive testing. Developed novel approaches for signal processing and image analysis.
 
-### CVPR2023
-you can find more inforamtion @ https://ar5iv.labs.arxiv.org/html/2306.04668
+[View on GitHub](https://github.com/sahlidjouad/Masters-NDT-AI/)
 
-Here couple of photos from previous jobs 
-<img src="images\AI\1.jpg?raw=true"/>
-<img src="images\AI\2.jpg?raw=true"/>
-<img src="images\AI\3.jpg?raw=true"/>
+### CVPR 2023 DarkVision Workshop
+<img src="images/AI/2.jpg?raw=true"/>
 
+Participated in competitive workshop focused on deep learning applications for ultrasound imaging. Developed state-of-the-art models for medical image analysis.
 
+[Workshop Details](https://www.cvpr2023-dl-ultrasound.com/)
 
+### Marinex: Open Source Marine Charts
+<img src="images/Marine/1.jpg?raw=true"/>
+
+Created open source solution for marine navigation chart visualization. Built with modern web technologies for optimal performance.
+
+[View on GitHub](https://github.com/sahlidjouad/Marinex)
+
+### Thyroid Cancer Detection CNN
+<img src="images/AI/3.jpg?raw=true"/>
+
+Implemented one-dimensional convolutional neural network for thyroid cancer detection from ultrasound data.
+
+[View on GitHub](https://github.com/sahlidjouad/One-Dimension-CNN-for-thyroid-cancer)
+
+## Technical Skills
+
+### Programming Languages
+- Python (Advanced)
+- C/C++
+- JavaScript
+
+### Frameworks & Libraries
+- PyTorch
+- Seaborn
+- TensorFlow
+- NumPy
+- Pandas
+
+### Domain Expertise
+- Signal Processing
+- Image Analysis 
+- Marine Navigation Systems
+- Naval Architecture
+- Ultrasound Technology
+
+## Publications
+
+- [Physica Magazine Edition 1](https://www.calameo.com/read/0051282113d00f28ad4d2)
+- [Physica Magazine Edition 2](https://www.calameo.com/read/005128211073ff1b10349)
+
+## Community Involvement
+
+Founded [Scisociety](https://www.instagram.com/scisociety/) - Organizing and delivering scientific public talks to promote knowledge sharing and community engagement.

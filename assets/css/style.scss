@@ -10,14 +10,7 @@
   --accent-color: #e74c3c;
   --text-color: #34495e;
   --background-color: #ecf0f1;
-/* Navigation Menu Theme - Sea and Ocean */
-.nav-menu {
-  background-color: #0b5ed8; /* Deep blue to represent the sea */
-}
 
-.nav-item {
-  color: white; /* Contrast for visibility on a darker ocean theme */
-}
 
 body {
     
@@ -46,3 +39,65 @@ a {
   border-left: 4px solid var(--accent-color);
   padding-left: 1rem;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+
+.new-menu-bar {
+  background: linear-gradient(to right, #5c7792, #3498db);
+  padding: 15px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+
+
+.new-menu-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.new-menu-item {
+  list-style: none;
+  margin: 0 25px;
+}
+
+.new-menu-link {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 10px 15px;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.new-menu-link:hover {
+  background: rgba(55, 0, 255, 0.692);
+  color: #ecf0f1;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .new-menu-list {
+      flex-direction: column;
+      padding: 10px;
+  }
+  
+  .new-menu-item {
+      margin: 10px 0;
+  }
+}
+
+

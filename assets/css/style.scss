@@ -41,116 +41,52 @@ a {
   padding-left: 1rem;
   max-width: 1200px;
 
-.new-menu-item {
-  list-style: none;
-  margin: 0 25px;
-}
-
-.new-menu-link {
-  color: #ffffff;
-  font-size: 16px;
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  padding: 10px 15px;
-  border-radius: 4px;
-  transition: all 0.3s ease;
-}
-    line-height: 1.6;           // Font size and spacing for readability on body
-
-}
-
-.new-menu-link:hover {
-  background: rgba(55, 0, 255, 0.692);
-  color: #ecf0f1;
-  transform: translateY(-2px);
-}
-h1 { color: $primary-color; }
-
-h2 { color: $primary-color; } 
-
-h3 { color: $primary-color; }   // All headings are colored with the primary scheme to maintain branding consistency throughout your site'selements.
-
-
-
-a {
-
-    color: $secondary-color;
-
-}
-
-@media (max-width: 768px) {
-  .new-menu-list {
-      flex-direction: column;
-      padding: 10px;
-  }
-.header, .project-section {
-
-    background-color: $primary-color; 
-    padding: 15px;
-}
-
-
-
-// The new menu bar design is created with a gradient that transitions from the secondary accent to an even lighter shade of it.
-
-.new-menu-bar {                     // Styling for your site's header or top navigation area: background and shadowing effects are defined here 
-
+  .new-menu-bar {
+    background: linear-gradient(to right, #2c3e50, #3498db);
     padding: 15px 0;
-
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 
 
-
-    // The menu items within this bar appear in a flexible list layout that centers their content.
-
-.new-menu-list {                     
-
-    display: flex;               // Use Flexbox for alignment of the menu elements to center them both horizontally and vertically when on larger screens
-
+.new-menu-list {
+    display: flex;
     justify-content: center;
-
     align-items: center;
-
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
+.new-menu-item {
+    list-style: none;
+    margin: 0 25px;
+}
 
-
-// Individual list items (menu links) are styled with a clean, modern look.
-
-.new-menu-item {                       
-
-    color: $background-color;        // Text of the menu item is white for contrast on this accent/theme backdrop            
-
+.new-menu-link {
+    color: #ffffff;
     font-size: 16px;
-
     font-weight: 500;
-
     text-transform: uppercase;
-
+    letter-spacing: 1px;
+    padding: 10px 15px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
 }
 
-
-
-// On hover, these links will lighten in color and slightly translate upwards to indicate interactivity.
-
-.new-menu-item:hover {                 // Adding a visual response when the user hovers over menu items 
-
-  background: rgba(55, 0, 255, 0.692);   
-
-    color: $text-color;               // Change text to white for readability against accent/theme backdrop on hover
-
-  transform: translateY(-2px);
-
+.new-menu-link:hover {
+    background: rgba(55, 0, 255, 0.692);
+    color: #ecf0f1;
+    transform: translateY(-2px);
 }
 
-
-
-@media (maxlowidth of screen) and (max-device-pixel-ratio :710 ) { 
-
+@media (max-width: 768px) {
     .new-menu-list {
+        flex-direction: column;
+        padding: 10px;
+    }
+    
+    .new-menu-item {
+        margin: 10px 0;
+    }
+}
 
-        flex-direction: column;       // Stack menu items vertically on mobile devices for ease of viewing & interaction     
-
-                         // The padding changes to accommodate the smaller screen, but keep alignment in mind.
-
+ 

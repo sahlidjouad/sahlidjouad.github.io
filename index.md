@@ -21,7 +21,7 @@
 ---
 ### Languages
 
-    - English - IELTS C2
+    - English - IELTS advanced
     - French - DalF C2
     - Arabic - Native
   

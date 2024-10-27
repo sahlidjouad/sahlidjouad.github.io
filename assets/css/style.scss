@@ -39,32 +39,6 @@ a {
 .project-section {
   border-left: 4px solid var(--accent-color);
   padding-left: 1rem;
-}
-
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-}
-
-
-.new-menu-bar {
-  background: linear-gradient(to right, #5c7792, #3498db);
-  padding: 15px 0;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  margin-bottom: 30px;
-
-
-.new-menu-list {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   max-width: 1200px;
 
 .new-menu-item {
@@ -113,7 +87,7 @@ a {
 .header, .project-section {
 
     background-color: $primary-color; 
-
+    padding: 15px;
 }
 
 
@@ -180,20 +154,3 @@ a {
 
                          // The padding changes to accommodate the smaller screen, but keep alignment in mind.
 
-        margin: 10px 0;
-    }
-}
-
-// Add additional styles within this block as needed or remove any SCSS placeholders not present (e.g., site imports)
-```
-In rewriting your code to Sass, I've assumed that `$primary-color`, `$secondary-color` and other custom properties should refer directly to the colors defined at the top of our snippet.
-I used SCSS syntax for nesting which is more powerful than standard CSS. 
-Make sure you compile this into regular CSS using a SASS compiler before including it in your website as browsers do not natively understand Sass code yet.
-
-Please remember to adjust any values or elements that might be specific only to certain needs, like pixel ranges for breakpoints (`max-device-pixel-ratio`), which can vary based on the devices you target. 
-Also note I used `lighten` function from SCSS to get a lighter shade of your secondary color when hovering over links.
-
-Finally, ensure that wherever `$site.theme`, or any other site specific variables were supposed to go are not included here as they're placeholders for content import in actual build systems like Gulp/Grunt which aren't present within a static code snippet context.<|im_end|> out
-
-```scss
-$primary-color: #2c3e50

@@ -1,8 +1,6 @@
 ---
 ---
-
 @import "{{ site.theme }}";
-
 
 
 /* Modern color scheme */
@@ -12,8 +10,8 @@
   --accent-color: #e74c3c;
   --text-color: #34495e;
   --background-color: #ffffff;
+}
 
- }
 body {
   padding: 0px;  
   background-color: var(--background-color);
@@ -27,14 +25,14 @@ h1, h2, h3 {
 
 
 
-
 header {
-padding: 15px;
-margin-top: 75px
-}
-.section_main{
   padding: 15px;
-  margin-top: 75px
+  margin-top: 75px;
+}
+
+.section_main {
+  padding: 15px;
+  margin-top: 75px;
 }
 
 .header {

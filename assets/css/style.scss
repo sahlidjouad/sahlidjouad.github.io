@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}"
 
 
 
@@ -80,7 +80,7 @@ margin-top: 75px
 }
 
 .new-menu-link:hover {
-    background: rgba(55, 0, 255, 0.692);
+    background: #41aaf0;
     color: #ecf0f1;
     transform: translateY(-2px);
 }

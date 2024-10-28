@@ -41,7 +41,7 @@ header {
 }
 
 .section_main {
-  padding: 15px;
+  padding: 10px;
   margin-top: 75px;
 }
 
@@ -57,8 +57,8 @@ header {
   max-width: 1200px;
 }
   .new-menu-bar {
-    background: linear-gradient(to right, #2c3e50, #3498db);
-    padding: 0px 0;
+    background: linear-gradient(to right, #22464b, #3498db);
+    padding: 10px 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
   }
 
@@ -67,7 +67,7 @@ header {
     justify-content: center;
     align-items: center;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 10 auto;
     padding: 0 20px;
 }
 
@@ -102,6 +102,6 @@ header {
     }
     
     .new-menu-item {
-        margin: 0px 0;
+        margin: 15px 0;
     }
 }

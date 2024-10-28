@@ -1,25 +1,27 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <div class="bg-image"></div>
   <head>
-    <script src="https://cdn.tailwindcss.com"></script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme-color" content="#050307">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Djouad SAHLI</title>
-    <script src="./nav.js" type="module"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,600;0,800;1,600;1,800&display=swap"
       rel="stylesheet">
   
-    <link rel="stylesheet" type="text/css" href="/assets/css/style.scss">
-
-
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+        
+        <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+        <link rel="stylesheet" type="text/css" href="/assets/css/style.scss">
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script src="/nav.js" type="module"></script>
+      </head>
 
     <nav class="new-menu-bar">
       <ul class="new-menu-list">
@@ -29,20 +31,8 @@
           <li class="new-menu-item"><a href="#" class="new-menu-link">Contact</a></li>
       </ul>
   </nav>
-
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-        <script src="nav.js" type="module"></script>
-        <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  </head>
- 
-
   <body>
    
-
     <div class="wrapper">
       
 

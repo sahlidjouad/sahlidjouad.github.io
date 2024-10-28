@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 
+
 /* Modern color scheme */
 :root {
   --primary-color: #2c3e50;
@@ -12,7 +13,7 @@
   --text-color: #34495e;
   --background-color: #ffffff;
 
-
+ }
 body {
     padding: 0px;  
   background-color: var(--background-color);
@@ -94,4 +95,4 @@ padding: 15px;
         margin: 10px 0;
     }
 }
-  }
+ 

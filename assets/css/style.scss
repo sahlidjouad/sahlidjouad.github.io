@@ -22,6 +22,7 @@ body {
 
 h1, h2, h3 {
   color: var(--primary-color);
+  font-size: medium;
 }
 
 a {
@@ -34,13 +35,17 @@ a {
 
 header {
 padding: 15px;
+margin-top: 75px
 }
-
+.section_main{
+  padding: 15px;
+  margin-top: 75px
+}
 
 .header {
   background-color: var(--primary-color);
-  color: #e74c3c;
-  padding: 15px;
+  color: #ffffff;
+
 }
 
 .project-section {

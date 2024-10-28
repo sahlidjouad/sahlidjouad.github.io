@@ -88,7 +88,7 @@ header {
 }
 
 .new-menu-link:hover {
-    background: #41aaf0;
+    background: ${accent-color};
     color: #ecf0f1;
     transform: translateY(-2px);
 }

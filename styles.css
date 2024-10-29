@@ -24,6 +24,38 @@ h1 {padding: 25px;
     justify-content: center;
     gap: 15px;
 }
+/* Gallery Item Hover Effect */
+.gallery-item:hover {
+    transform: scale(1.02);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+/* Lightbox Animation */
+@keyframes fadeIn {
+    from {opacity: 0}
+    to {opacity: 1}
+}
+
+.lightbox.active {
+    display: block;
+    animation: fadeIn 0.5s;
+}
+
+.lightbox-content {
+    animation: fadeIn 0.5s;
+}
+
+/* Prevent body scroll when lightbox is open */
+body.lightbox-open {
+    overflow: hidden;
+}
+
+/* Responsive Lightbox Image */
+.lightbox-content {
+    max-height: 80vh;
+    object-fit: contain;
+}
 
 .gallery-item {
     width: 250px;
@@ -114,7 +146,8 @@ h1 {padding: 25px;
 }
 
 .new-menu-link:hover {
-    background: rgba(55, 0, 255, 0.692);
+    background: rgba(143, 149, 179, 0.986);
+    fill-opacity: 0.8;
     color: #ecf0f1;
     transform: translateY(-2px);
 }
@@ -129,4 +162,24 @@ h1 {padding: 25px;
         margin: 10px 0;
     }
 }
+  }
+
+  .gallery-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 0px;
+    padding: 20px;
+  }
+  
+  .gallery-container img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+  }
+  
+  .gallery-container img:hover {
+    transform: scale(1.30);
   }

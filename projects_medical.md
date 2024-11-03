@@ -1,6 +1,6 @@
-## Investigation in the Medical field : During my masters degree
+# Investigation in the Medical field and Biological tissues: During my masters degree
 
-### Application of elastography to Texture analyse  
+## Application of Elastography to Texture Analysis  
 
 
 <img src="images/medical/Applications of Elastography/Screenshot_1.png?raw=true"/>
@@ -15,21 +15,22 @@ Advanced research applying deep learning techniques to ultrasound in both medica
 -   how to segment and classify organs in ultrqsound images.
 -   how to classify different types of defects in NDT images.
 -   IMPLEMENTING super resolution techniques to increase ultrasound images resolution KEEP THAT IN MIND
--   
 
------------------------------------------------------------------------
-[View on GitHub](https://github.com/sahlidjouad/Masters-NDT-AI/)
+---------------------------------------------
+link to Application of Elastography to Texture Analysis
+[READ My Paper here](images/medical/Applications%20of%20Elastography/Thème%20Appliqué%20.pdf)
 
-### Ultrasound diffusion by a slightly heterogeneous medium
+
+## Ultrasound diffusion by a slightly heterogeneous medium
 <img src="images/medical/inhomogeneous media/Screenshot_2.png?raw=true"/><img src="images/medical/inhomogeneous media/Screenshot_1.png?raw=true"/>
 
 
 
 
 
------------------------------------------------------------------------
-[Workshop Details](https://www.cvpr2023-dl-ultrasound.com/)
-
+---------------------------------------------
+link to Ultrasound diffusion by a slightly heterogeneous medium
+[READ My Paper here](images/medical/inhomogeneous%20media/Diffusion%20des%20ultrasons%20par%20un%20milieu%20faiblement%20hétérogène.pdf)
 
 
 

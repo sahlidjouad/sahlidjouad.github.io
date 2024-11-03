@@ -9,9 +9,11 @@ Advanced research applying deep learning techniques to ultrasound in both medica
 -   how to classify different types of defects in NDT images.
 -   IMPLEMENTING super resolution techniques to increase ultrasound images resolution KEEP THAT IN MIND
 -   
-
+### 
+[READ My Pdf Document](images/medical/Applications%20of%20Elastography/Thème%20Appliqué%20.pdf)
 
 [View on GitHub](https://github.com/sahlidjouad/Masters-NDT-AI/)
+
 [Medical investigations here](https://github.com/sahlidjouad/projects_medical/)
 
 ### CVPR 2023 DarkVision Workshop

@@ -19,12 +19,12 @@ Advanced research applying deep learning techniques to ultrasound in both medica
 Participated in competitive workshop focused on deep learning applications for ultrasound imaging. Developed models for NDT 3D image analysis and segmentation 
 
 [Workshop Details](https://www.cvpr2023-dl-ultrasound.com/)
-### weLDING IMAGES MULTICLASSIFICATION IN kaGGLE
-<img src="images/AI/2.jpg?raw=true"/>
+### Welding images MULTICLASSIFICATION  []
+<img src="images/AI/Screenshot_1.png?raw=true"/>
 
- deep learning applications for WELDING IMAGES MULTICLASSIFICATION IN kaGGLE
+ Deep learning applications for WELDING IMAGES MULTICLASSIFICATION IN kaGGLE
 basically multi class classification of welding images.
-[View on GitHub COMING SOON](https://github.com/sahlidjouad/WELDING-IMAGES-MULTICLASSIFICATION-IN-kaGGLE)
+[View on Google Collab ](https://colab.research.google.com/drive/1rbCZELuMOTRg6xxD7YGBHFRCBVZd4Fu-?usp=sharing)
 [ Details ADDING IT SOON AS IHAVE TIME ](FIX LINK)
 ### Marinex: Open Source Marine Charts
 <img src="images/Marine/1.jpg?raw=true"/>

@@ -1,8 +1,8 @@
 ## Deep Learning & Machine Learning Projects
 
-### Masters Thesis: AI in Ultrasound MeDical and NDT
+### Masters Thesis: AI in Ultrasound Medical and NDT
 <img src="images/AI/1.jpg?raw=true"/>
-
+<img src="images/medical/Applications of Elastography/Screenshot_2.png?raw=true"/>
 Advanced research applying deep learning techniques to ultrasound in both medical and non-destructive testing.working on image analysis and segmentation Next i ll explore 
 -   how to increase ultrasound images resolution using Deep learning techniques.
 -   how to segment and classify organs in ultrqsound images.
@@ -12,6 +12,7 @@ Advanced research applying deep learning techniques to ultrasound in both medica
 
 
 [View on GitHub](https://github.com/sahlidjouad/Masters-NDT-AI/)
+[Medical investigations here](https://github.com/sahlidjouad/projects_medical/)
 
 ### CVPR 2023 DarkVision Workshop
 <img src="images/AI/2.jpg?raw=true"/>
@@ -19,7 +20,7 @@ Advanced research applying deep learning techniques to ultrasound in both medica
 Participated in competitive workshop focused on deep learning applications for ultrasound imaging. Developed models for NDT 3D image analysis and segmentation 
 
 [Workshop Details](https://www.cvpr2023-dl-ultrasound.com/)
-### Welding images MULTICLASSIFICATION  []
+### Welding images MULTICLASSIFICATION  
 <img src="images/AI/Screenshot_1.png?raw=true"/>
 
  Deep learning applications for WELDING IMAGES MULTICLASSIFICATION IN kaGGLE
@@ -73,3 +74,4 @@ i need  more time to fix git repos
 ## Community Involvement
 
 Founded [Scisociety](https://www.instagram.com/scisociety/) - Organizing and delivering scientific public talks to promote knowledge sharing and community engagement.
+

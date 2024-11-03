@@ -1,23 +1,38 @@
 ## Deep Learning & Machine Learning Projects
 
-### Masters Thesis: AI in Ultrasound NDT
+### Masters Thesis: AI in Ultrasound MeDical and NDT
 <img src="images/AI/1.jpg?raw=true"/>
 
-Advanced research applying deep learning techniques to ultrasound non-destructive testing. Developed novel approaches for signal processing and image analysis.
+Advanced research applying deep learning techniques to ultrasound in both medical and non-destructive testing.working on image analysis and segmentation Next i ll explore 
+-   how to increase ultrasound images resolution using Deep learning techniques.
+-   how to segment and classify organs in ultrqsound images.
+-   how to classify different types of defects in NDT images.
+-   IMPLEMENTING super resolution techniques to increase ultrasound images resolution KEEP THAT IN MIND
+-   
+
 
 [View on GitHub](https://github.com/sahlidjouad/Masters-NDT-AI/)
 
 ### CVPR 2023 DarkVision Workshop
 <img src="images/AI/2.jpg?raw=true"/>
 
-Participated in competitive workshop focused on deep learning applications for ultrasound imaging. Developed state-of-the-art models for medical image analysis.
+Participated in competitive workshop focused on deep learning applications for ultrasound imaging. Developed models for NDT 3D image analysis and segmentation 
 
 [Workshop Details](https://www.cvpr2023-dl-ultrasound.com/)
+### weLDING IMAGES MULTICLASSIFICATION IN kaGGLE
+<img src="images/AI/2.jpg?raw=true"/>
 
+ deep learning applications for WELDING IMAGES MULTICLASSIFICATION IN kaGGLE
+basically multi class classification of welding images.
+[View on GitHub COMING SOON](https://github.com/sahlidjouad/WELDING-IMAGES-MULTICLASSIFICATION-IN-kaGGLE)
+[ Details ADDING IT SOON AS IHAVE TIME ](FIX LINK)
 ### Marinex: Open Source Marine Charts
 <img src="images/Marine/1.jpg?raw=true"/>
 
-Created open source solution for marine navigation chart visualization. Built with modern web technologies for optimal performance.
+Working on creating my own open source solution for marine navigation chart visualization. Built with modern web technologies for optimal performance.
+Still a work in progress. i gathering information and looking for collaborators.that will help me to make this project a reality.
+don't hesitate to contact me if you are interested in collaborating. 
+i have valuable bathymetric data that i want to explore and visualize. ill be testing the project and work to get this piece of software on every boat out there.
 
 [View on GitHub](https://github.com/sahlidjouad/Marinex)
 
@@ -25,6 +40,7 @@ Created open source solution for marine navigation chart visualization. Built wi
 <img src="images/AI/3.jpg?raw=true"/>
 
 Implemented one-dimensional convolutional neural network for thyroid cancer detection from ultrasound data.
+i need  more time to fix git repos 
 
 [View on GitHub](https://github.com/sahlidjouad/One-Dimension-CNN-for-thyroid-cancer)
 

@@ -3,13 +3,13 @@
 ## Application of Elastography to Texture Analysis  
 
 
-<img src="images/medical/Applications%20of%20Elastography/Screenshot_1.png?raw=true"/>
+<img src="images/medical/ApplicationsofElastography/Screenshot_1.png?raw=true"/>
 
 ![alt text](/images/Medical/Applications%20of%20Elastography/image.png)
 
 ![alt text](/images/Medical/Applications%20of%20Elastography/image-1.png)
 
-<img src="images/medical/Applications%20of%20Elastography/Screenshot_2.png?raw=true"/>
+<img src="images/medical/ApplicationsofElastography/Screenshot_2.png?raw=true"/>
 Advanced research applying deep learning techniques to ultrasound in both medical and non-destructive testing.working on image analysis and segmentation Next i ll explore 
 -   how to increase ultrasound images resolution using Deep learning techniques.
 -   how to segment and classify organs in ultrqsound images.
@@ -22,7 +22,7 @@ link to Application of Elastography to Texture Analysis
 
 
 ## Ultrasound diffusion by a slightly heterogeneous medium
-<img src="images/medical/inhomogeneous%20media/Screenshot_2.png?raw=true"/><img src="images/medical/inhomogeneous%20media/Screenshot_1.png?raw=true"/>
+<img src="images/medical/inhomogeneousmedia/Screenshot_2.png?raw=true"/><img src="images/medical/inhomogeneousmedia/Screenshot_1.png?raw=true"/>
 
 
 

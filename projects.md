@@ -2,7 +2,7 @@
 
 ### Masters Thesis: AI in Ultrasound Medical and NDT
 <img src="images/AI/1.jpg?raw=true"/>
-<img src="images/medical/Applications of Elastography/Screenshot_2.png?raw=true"/>
+<img src="images/medical/Applications%20of%20Elastography/Screenshot_2.png?raw=true"/>
 Advanced research applying deep learning techniques to ultrasound in both medical and non-destructive testing.working on image analysis and segmentation Next i ll explore 
 -   how to increase ultrasound images resolution using Deep learning techniques.
 -   how to segment and classify organs in ultrqsound images.

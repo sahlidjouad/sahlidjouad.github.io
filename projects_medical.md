@@ -18,8 +18,7 @@ Advanced research applying deep learning techniques to ultrasound in both medica
 
 ---------------------------------------------
 link to Application of Elastography to Texture Analysis
-[READ My Paper here](images/medical/Applications%20of%20Elastography/Thème%20Appliqué%20.pdf)
-
+[READ My Paper here](images/medical/ApplicationsofElastography/Thème%20Appliqué%20.pdf)
 
 ## Ultrasound diffusion by a slightly heterogeneous medium
 <img src="images/medical/inhomogeneousmedia/Screenshot_2.png?raw=true"/><img src="images/medical/inhomogeneousmedia/Screenshot_1.png?raw=true"/>
@@ -30,7 +29,7 @@ link to Application of Elastography to Texture Analysis
 
 ---------------------------------------------
 link to Ultrasound diffusion by a slightly heterogeneous medium
-[READ My Paper here](images/medical/inhomogeneous%20media/Diffusion%20des%20ultrasons%20par%20un%20milieu%20faiblement%20hétérogène.pdf)
+[READ My Paper here](images/medical/inhomogeneousmedia/Diffusion%20des%20ultrasons%20par%20un%20milieu%20faiblement%20hétérogène.pdf)
 
 
 

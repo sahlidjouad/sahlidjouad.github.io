@@ -22,7 +22,7 @@ Advanced research applying deep learning techniques to ultrasound in both medica
 Participated in competitive workshop focused on deep learning applications for ultrasound imaging. Developed models for NDT 3D image analysis and segmentation 
 
 [Workshop Details](https://www.cvpr2023-dl-ultrasound.com/)
-### Welding images MULTICLASSIFICATION  
+### Welding images MULTICLASSIFICATION 2024  
 <img src="images/AI/Screenshot_1.png?raw=true"/>
 
  Deep learning applications for WELDING IMAGES MULTICLASSIFICATION IN kaGGLE
@@ -55,21 +55,24 @@ i need  more time to fix git repos
 - Matlab
 
 ### Frameworks & Libraries
-- PyTorch
-- Seaborn
-- TensorFlow
 - NumPy
 - Pandas
+- PyTorch
+- PyTorch3D
+- TensorFlow
+
 
 ### Domain Expertise
 - Signal Processing
 - Image Analysis 
-- Marine Navigation Systems
+- Marine Navigation Systems /Detection
+- Electronics
 - Naval Architecture
+- Ai / Machine Learning
 - Ultrasound Technology
 
 ## Publications
-
+University Club Magazine
 - [Physica Magazine Edition 1](https://www.calameo.com/read/0051282113d00f28ad4d2)
 - [Physica Magazine Edition 2](https://www.calameo.com/read/005128211073ff1b10349)
 

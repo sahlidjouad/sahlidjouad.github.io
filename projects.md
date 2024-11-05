@@ -14,7 +14,7 @@ Advanced research applying deep learning techniques to ultrasound in both medica
 
 [View on GitHub](https://github.com/sahlidjouad/Masters-NDT-AI/)
 
-[Medical investigations here](https://github.com/sahlidjouad/projects_medical/)
+[Medical investigations here](https://sahlidjouad.github.io/projects_medical)
 
 ### CVPR 2023 DarkVision Workshop
 <img src="images/AI/2.jpg?raw=true"/>
